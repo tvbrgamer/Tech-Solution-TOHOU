@@ -6,6 +6,7 @@
     {"name":"Notes","order":11,"path":"folders/Notes.yy",},
     {"name":"Objects","order":14,"path":"folders/Objects.yy",},
     {"name":"menu","order":8,"path":"folders/Objects/menu.yy",},
+    {"name":"player","order":7,"path":"folders/Objects/player.yy",},
     {"name":"sons","order":6,"path":"folders/Objects/sons.yy",},
     {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
     {"name":"Rooms","order":8,"path":"folders/Rooms.yy",},
@@ -17,7 +18,7 @@
     {"name":"menu_ini_screen","order":7,"path":"folders/Sprites/menu_ini_screen.yy",},
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
-    {"name":"player","order":7,"path":"folders/Objects/player.yy",},
+    {"name":"animation","order":2,"path":"folders/Scripts/animation.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Menu","order":1,"path":"rooms/Menu/Menu.yy",},
