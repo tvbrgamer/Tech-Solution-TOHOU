@@ -1,0 +1,1 @@
+canshoot=true
