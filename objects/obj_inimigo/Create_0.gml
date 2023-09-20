@@ -13,6 +13,9 @@ speedh = move_speed
 // temporario
 canshoot = true
 
+canmove=true
+
+alarm[0] = 1;
 
 
 
@@ -25,5 +28,3 @@ PHASE_1,
 PHASE_2,
 PHASE_3,
 }
-
-alarm[0] = 1;
