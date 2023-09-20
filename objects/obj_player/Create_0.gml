@@ -1,4 +1,4 @@
-vida=100
+vida=1
 
 move_speed = 10
 

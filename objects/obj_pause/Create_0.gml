@@ -1,2 +1,0 @@
-pause = false;
-pauseSurface = noone;

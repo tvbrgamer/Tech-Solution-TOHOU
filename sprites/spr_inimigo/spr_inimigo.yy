@@ -24,10 +24,10 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4f69163e-68a0-476f-8568-21ac1b125943","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 7,
+  "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "enemy",
+    "path": "folders/Sprites/enemy.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -62,7 +62,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 32,
-    "yorigin": 64,
+    "yorigin": 32,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

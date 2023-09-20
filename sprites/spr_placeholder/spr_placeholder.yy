@@ -30,8 +30,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "menu_ini_screen",
-    "path": "folders/Sprites/menu_ini_screen.yy",
+    "name": "menu",
+    "path": "folders/Sprites/menu.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

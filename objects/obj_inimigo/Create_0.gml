@@ -15,6 +15,8 @@ canshoot = true
 
 canmove=true
 
+_bullet_offset=0
+
 alarm[0] = 1;
 
 

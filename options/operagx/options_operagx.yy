@@ -17,11 +17,11 @@
   "option_operagx_mod_team_id": "",
   "option_operagx_mod_team_name": "",
   "option_operagx_mod_version": "1.0.0.0",
-  "option_operagx_next_version": "1.0.1.5",
+  "option_operagx_next_version": "1.0.1.6",
   "option_operagx_publicShareUrl": "https://gx.games/games/cjjuz2/school-project/",
   "option_operagx_scale": 0,
   "option_operagx_team_id": "e89ef233-209e-4c7b-a029-562f36a544d3",
   "option_operagx_team_name": "tvbrgamer studio",
   "option_operagx_texture_page": "2048x2048",
-  "option_operagx_version": "1.0.1.4",
+  "option_operagx_version": "1.0.1.5",
 }
